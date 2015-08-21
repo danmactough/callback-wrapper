@@ -1,0 +1,33 @@
+{
+  "name": "callback-wrapper",
+  "version": "0.0.0",
+  "description": "Helper to wrap your callbacks",
+  "main": "callback-wrapper.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Dan MacTough <danmactough@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmactough/callback-wrapper.git"
+  },
+  "keywords": [
+    "callback",
+    "helper",
+    "timeout"
+  ],
+  "bugs": {
+    "url": "https://github.com/danmactough/callback-wrapper/issues"
+  },
+  "homepage": "https://github.com/danmactough/callback-wrapper"
+}
