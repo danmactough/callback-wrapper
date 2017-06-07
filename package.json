@@ -9,7 +9,7 @@
   "author": "Dan MacTough <danmactough@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^3.4.2"
   },
   "dependencies": {
     "debug": "^2.2.0"
